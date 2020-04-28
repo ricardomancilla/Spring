@@ -1,0 +1,17 @@
+D:\Projects\Spring\Data\bin\Debug\Data.dll.config
+D:\Projects\Spring\Data\bin\Debug\Data.dll
+D:\Projects\Spring\Data\bin\Debug\Data.pdb
+D:\Projects\Spring\Data\bin\Debug\Domain.dll
+D:\Projects\Spring\Data\bin\Debug\EntityFramework.dll
+D:\Projects\Spring\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Spring\Data\bin\Debug\Domain.pdb
+D:\Projects\Spring\Data\bin\Debug\Domain.dll.config
+D:\Projects\Spring\Data\bin\Debug\EntityFramework.xml
+D:\Projects\Spring\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Spring\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\Projects\Spring\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Projects\Spring\Data\obj\Debug\Data.csproj.CopyComplete
+D:\Projects\Spring\Data\obj\Debug\Data.dll
+D:\Projects\Spring\Data\obj\Debug\Data.pdb
+D:\Projects\Spring\Data\obj\Debug\Data.Migrations.Initial.resources
+D:\Projects\Spring\Data\obj\Debug\Data.csproj.GenerateResource.cache

@@ -1,0 +1,15 @@
+D:\Projects\Spring\Business\bin\Debug\Business.dll
+D:\Projects\Spring\Business\bin\Debug\Business.pdb
+D:\Projects\Spring\Business\bin\Debug\AutoMapper.dll
+D:\Projects\Spring\Business\bin\Debug\Domain.dll
+D:\Projects\Spring\Business\bin\Debug\EntityFramework.dll
+D:\Projects\Spring\Business\bin\Debug\Domain.pdb
+D:\Projects\Spring\Business\bin\Debug\Domain.dll.config
+D:\Projects\Spring\Business\bin\Debug\AutoMapper.pdb
+D:\Projects\Spring\Business\bin\Debug\AutoMapper.xml
+D:\Projects\Spring\Business\bin\Debug\EntityFramework.xml
+D:\Projects\Spring\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\Projects\Spring\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\Projects\Spring\Business\obj\Debug\Business.csproj.CopyComplete
+D:\Projects\Spring\Business\obj\Debug\Business.dll
+D:\Projects\Spring\Business\obj\Debug\Business.pdb

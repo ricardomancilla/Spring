@@ -1,0 +1,12 @@
+D:\Projects\Spring\Domain\bin\Debug\Domain.dll.config
+D:\Projects\Spring\Domain\bin\Debug\Domain.dll
+D:\Projects\Spring\Domain\bin\Debug\Domain.pdb
+D:\Projects\Spring\Domain\bin\Debug\EntityFramework.dll
+D:\Projects\Spring\Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Spring\Domain\bin\Debug\EntityFramework.xml
+D:\Projects\Spring\Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Spring\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Spring\Domain\obj\Debug\Domain.csproj.CopyComplete
+D:\Projects\Spring\Domain\obj\Debug\Domain.dll
+D:\Projects\Spring\Domain\obj\Debug\Domain.pdb
+D:\Projects\Spring\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
